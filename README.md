@@ -72,8 +72,8 @@ Me chamo Kauê Faustino, tenho 22 anos e sou do Rio de Janeiro. Atualmente, esto
     src="https://github-readme-stats-eight-theta.vercel.app/api?username=kkauefaustino&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
 
-  <img 
-      align="right" 
+<img 
+      align="left" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kkauefaustino&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
