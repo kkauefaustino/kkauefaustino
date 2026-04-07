@@ -2,7 +2,7 @@
 
 **`Cientista de Dados`**
 
-Me chamo Kauê Faustino, tenho 22 anos e sou do Rio de Janeiro. Atualmente, estou cursando Engenharia de Software na UNESA. Ingressei na faculdade sem saber o que estava por vir e hoje em dia meu hobbie é programar! 
+Me chamo Kauê Faustino, tenho 22 anos e sou do Rio de Janeiro. Atualmente, estou cursando Engenharia de Software na UNESA. ingresssei na faculdade sem saber o que estava por vir e hoje em dia meu hobby e foco profissional é programar! Atualmente mergulhando no ecossistema de ciência de dados com Python e SQL. 
 
 <p align="left">
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
